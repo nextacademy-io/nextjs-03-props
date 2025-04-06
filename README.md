@@ -4,6 +4,9 @@ Update the `ProfilePicture` component to use _Props_.
 
 Instead of having `diamater` and `profileUrl` given as pre-defined local variables pass those values as `props`.
 
+<img width="904" alt="Screenshot 2025-04-06 at 03 55 21" src="https://github.com/user-attachments/assets/b1a8b7ef-24bc-4346-b96b-e1d94e93c974" />
+
+
 ## 1. Declare _ProfilePictureProps_
 
 ```tsx
